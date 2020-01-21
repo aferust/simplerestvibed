@@ -4,3 +4,9 @@
 
 ## TODO:
 Write explanations for the code.
+
+## dependencies
+* [vibe-d](https://github.com/vibe-d/vibe.d)
+* [dauth](https://github.com/Abscissa/DAuth)
+* [itsdangerous-d](https://github.com/aferust/itsdangerous-d)
+* [hibernated](https://github.com/buggins/hibernated)
