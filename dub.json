@@ -1,0 +1,19 @@
+{
+	"authors": [
+		"user"
+	],
+	"copyright": "Copyright © 2019, user",
+	"dependencies": {
+        "vibe-d": "~>0.8.5",
+        "dauth": "*",
+        "itsdangerous": "*",
+        "hibernated": "*"
+	},
+	"description": "A tutorial application skeleton for RESTful Authentication with vibe-d without registerRestInterface.",
+	"license": "boost",
+	"name": "simplerestvibed",
+    "versions": ["SQLite"],
+    "subConfigurations": {
+        "hibernated": "SQLite"
+    }
+}
